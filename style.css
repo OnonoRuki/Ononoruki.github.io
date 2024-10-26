@@ -54,7 +54,7 @@ button:hover {
 
 #form {
     display: none;
-    test-align: center;
+    text-align: center;
 }
 
 input {
